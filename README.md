@@ -23,6 +23,18 @@ things open-source people are good at: tools, data pipelines, maps, apps,
 clear writing. This repo breaks the goals down into problems small enough
 to work on, and keeps the research, tasks and code for each in one place.
 
+## Start here
+
+New to the project or the SDGs? Here’s a quick path:
+
+1. **Browse the catalogue** — open the [live catalogue](https://harrythentrepreneur.github.io/open-problems/) and pick a goal or a high-priority target.
+2. **Read a problem** — each target has a `problem.md` that explains the UN indicator, current status, and what “solved” means.
+3. **Find a task** — look for open issues labelled `good first issue` or `help wanted`. Comment `/assign` (or say you’d like to take it) on the issue.
+4. **Contribute** — follow the [CONTRIBUTING](CONTRIBUTING.md) guide. You don’t need to be a programmer; research, writing, data cleaning and design are all welcome.
+5. **Ask questions** — open a discussion or comment on an issue. The maintainers are happy to help.
+
+If something in this README was confusing, please open an issue or pull request — that’s useful feedback.
+
 ## How it works
 
 ```text
@@ -73,26 +85,26 @@ people like you.
 <!-- INDEX:START goals -->
 | | Goal | Targets | Indicators | UN progress 2026 | High priority | Active |
 |---|---|---:|---:|---|---:|---:|
-| ![1](https://img.shields.io/badge/-01-E5243B?style=flat-square) | [No poverty](goals/01-no-poverty/README.md) | 7 | 13 | 🟡2 🟠3 🔻1 ⚪1 | 1 | 0 |
-| ![2](https://img.shields.io/badge/-02-DDA63A?style=flat-square) | [Zero hunger](goals/02-zero-hunger/README.md) | 8 | 15 | 🟢1 🟡1 🟠2 🔴1 🔻2 ⚪1 | 3 | 0 |
-| ![3](https://img.shields.io/badge/-03-4C9F38?style=flat-square) | [Good health and well-being](goals/03-good-health-and-well-being/README.md) | 13 | 28 | 🟢1 🟡2 🟠10 | 0 | 0 |
-| ![4](https://img.shields.io/badge/-04-C5192D?style=flat-square) | [Quality education](goals/04-quality-education/README.md) | 10 | 12 | 🟡2 🟠1 🔴5 ⚪2 | 5 | 0 |
-| ![5](https://img.shields.io/badge/-05-FF3A21?style=flat-square) | [Gender equality](goals/05-gender-equality/README.md) | 9 | 14 | 🟠5 ⚪4 | 0 | 0 |
-| ![6](https://img.shields.io/badge/-06-26BDE2?style=flat-square) | [Clean water and sanitation](goals/06-clean-water-and-sanitation/README.md) | 8 | 11 | 🟡1 🟠2 🔴3 ⚪2 | 3 | 1 |
-| ![7](https://img.shields.io/badge/-07-FCC30B?style=flat-square) | [Affordable and clean energy](goals/07-affordable-and-clean-energy/README.md) | 5 | 6 | 🟢2 🟡3 | 0 | 0 |
-| ![8](https://img.shields.io/badge/-08-A21942?style=flat-square) | [Decent work and economic growth](goals/08-decent-work-and-economic-growth/README.md) | 12 | 17 | 🟡1 🟠6 🔴1 🔻3 ⚪1 | 4 | 0 |
-| ![9](https://img.shields.io/badge/-09-FD6925?style=flat-square) | [Industry, innovation and infrastructure](goals/09-industry-innovation-and-infrastructure/README.md) | 8 | 12 | 🟢1 🟡4 🟠1 🔻1 ⚪1 | 1 | 0 |
-| ![10](https://img.shields.io/badge/-10-DD1367?style=flat-square) | [Reduced inequalities](goals/10-reduced-inequalities/README.md) | 10 | 14 | 🟢1 🟡2 🟠2 🔴2 🔻3 | 5 | 0 |
-| ![11](https://img.shields.io/badge/-11-FD9D24?style=flat-square) | [Sustainable cities and communities](goals/11-sustainable-cities-and-communities/README.md) | 10 | 16 | 🟢3 🟠1 🔴1 ⚪5 | 1 | 0 |
-| ![12](https://img.shields.io/badge/-12-BF8B2E?style=flat-square) | [Responsible consumption and production](goals/12-responsible-consumption-and-production/README.md) | 11 | 13 | 🟢4 🟠1 🔴1 🔻4 ⚪1 | 5 | 0 |
-| ![13](https://img.shields.io/badge/-13-3F7E44?style=flat-square) | [Climate action](goals/13-climate-action/README.md) | 5 | 8 | 🟢2 🟠1 ⚪2 | 0 | 0 |
-| ![14](https://img.shields.io/badge/-14-0A97D9?style=flat-square) | [Life below water](goals/14-life-below-water/README.md) | 10 | 10 | 🟡3 🟠3 🔻3 ⚪1 | 3 | 0 |
-| ![15](https://img.shields.io/badge/-15-56C02B?style=flat-square) | [Life on land](goals/15-life-on-land/README.md) | 12 | 14 | 🟢3 🟡1 🟠2 🔴2 🔻2 ⚪2 | 4 | 0 |
-| ![16](https://img.shields.io/badge/-16-00689D?style=flat-square) | [Peace, justice and strong institutions](goals/16-peace-justice-and-strong-institutions/README.md) | 12 | 24 | 🟡3 🟠1 🔴4 🔻1 ⚪3 | 5 | 0 |
-| ![17](https://img.shields.io/badge/-17-19486A?style=flat-square) | [Partnerships for the Goals](goals/17-partnerships-for-the-goals/README.md) | 19 | 24 | 🟢3 🟡4 🟠3 🔴4 🔻1 ⚪4 | 5 | 0 |
+| ![1](https://img.shields.io/badge/-01-E5243B?style=flat-square) | [No poverty](goals/01-no-poverty/README.md) | 7 | 13 | 🟡2 🟧3 🔻1 ⚪1 | 1 | 0 |
+| ![2](https://img.shields.io/badge/-02-DDA63A?style=flat-square) | [Zero hunger](goals/02-zero-hunger/README.md) | 8 | 15 | 🟩1 🟡1 🟧2 🔴1 🔻2 ⚪1 | 3 | 0 |
+| ![3](https://img.shields.io/badge/-03-4C9F38?style=flat-square) | [Good health and well-being](goals/03-good-health-and-well-being/README.md) | 13 | 28 | 🟩1 🟡2 🟧10 | 0 | 0 |
+| ![4](https://img.shields.io/badge/-04-C5192D?style=flat-square) | [Quality education](goals/04-quality-education/README.md) | 10 | 12 | 🟡2 🟧1 🔴5 ⚪2 | 5 | 0 |
+| ![5](https://img.shields.io/badge/-05-FF3A21?style=flat-square) | [Gender equality](goals/05-gender-equality/README.md) | 9 | 14 | 🟧5 ⚪4 | 0 | 0 |
+| ![6](https://img.shields.io/badge/-06-26BDE2?style=flat-square) | [Clean water and sanitation](goals/06-clean-water-and-sanitation/README.md) | 8 | 11 | 🟡1 🟧2 🔴3 ⚪2 | 3 | 1 |
+| ![7](https://img.shields.io/badge/-07-FCC30B?style=flat-square) | [Affordable and clean energy](goals/07-affordable-and-clean-energy/README.md) | 5 | 6 | 🟩2 🟡3 | 0 | 0 |
+| ![8](https://img.shields.io/badge/-08-A21942?style=flat-square) | [Decent work and economic growth](goals/08-decent-work-and-economic-growth/README.md) | 12 | 17 | 🟡1 🟧6 🔴1 🔻3 ⚪1 | 4 | 0 |
+| ![9](https://img.shields.io/badge/-09-FD6925?style=flat-square) | [Industry, innovation and infrastructure](goals/09-industry-innovation-and-infrastructure/README.md) | 8 | 12 | 🟩1 🟡4 🟧1 🔻1 ⚪1 | 1 | 0 |
+| ![10](https://img.shields.io/badge/-10-DD1367?style=flat-square) | [Reduced inequalities](goals/10-reduced-inequalities/README.md) | 10 | 14 | 🟩1 🟡2 🟧2 🔴2 🔻3 | 5 | 0 |
+| ![11](https://img.shields.io/badge/-11-FD9D24?style=flat-square) | [Sustainable cities and communities](goals/11-sustainable-cities-and-communities/README.md) | 10 | 16 | 🟩3 🟧1 🔴1 ⚪5 | 1 | 0 |
+| ![12](https://img.shields.io/badge/-12-BF8B2E?style=flat-square) | [Responsible consumption and production](goals/12-responsible-consumption-and-production/README.md) | 11 | 13 | 🟩4 🟧1 🔴1 🔻4 ⚪1 | 5 | 0 |
+| ![13](https://img.shields.io/badge/-13-3F7E44?style=flat-square) | [Climate action](goals/13-climate-action/README.md) | 5 | 8 | 🟩2 🟧1 ⚪2 | 0 | 0 |
+| ![14](https://img.shields.io/badge/-14-0A97D9?style=flat-square) | [Life below water](goals/14-life-below-water/README.md) | 10 | 10 | 🟡3 🟧3 🔻3 ⚪1 | 3 | 0 |
+| ![15](https://img.shields.io/badge/-15-56C02B?style=flat-square) | [Life on land](goals/15-life-on-land/README.md) | 12 | 14 | 🟩3 🟡1 🟧2 🔴2 🔻2 ⚪2 | 4 | 0 |
+| ![16](https://img.shields.io/badge/-16-00689D?style=flat-square) | [Peace, justice and strong institutions](goals/16-peace-justice-and-strong-institutions/README.md) | 12 | 24 | 🟡3 🟧1 🔴4 🔻1 ⚪3 | 5 | 0 |
+| ![17](https://img.shields.io/badge/-17-19486A?style=flat-square) | [Partnerships for the Goals](goals/17-partnerships-for-the-goals/README.md) | 19 | 24 | 🟩3 🟡4 🟧3 🔴4 🔻1 ⚪4 | 5 | 0 |
 | | **Total** | **169** | **251** | | **45** | **1** |
 
-UN progress legend: 🟢 On track or target met · 🟡 Moderate progress · 🟠 Marginal progress · 🔴 Stagnation · 🔻 Regression · ⚪ Insufficient data.  
+UN progress legend: 🟩 On track or target met · 🟡 Moderate progress · 🟠 Marginal progress · 🔴 Stagnation · 🔻 Regression · ⚪ Insufficient data.  
 Indicators are counted once even when the UN lists them under more than one target. High priority = targets the UN rates as *stagnation* or *regression*. Active = status beyond `suggested`.
 <!-- INDEX:END goals -->
 
@@ -134,53 +146,12 @@ You do not need to be a programmer. We need:
 - **Researchers** to find what already exists, and the latest numbers, with sources.
 - **Data people** to find, clean and check open datasets.
 - **Developers** to build tools once a problem is scoped.
-- **Designers and writers** to make things clear for the people who use them.
-- **People with field experience** (NGOs, agencies, communities) to tell us what is real, and to become problem owners.
+- **Designers** and writers to make the work clear and usable.
+- **Anyone** who can help with the tasks labelled `good first issue`.
 
-## Start here
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to get started, and the
+[code of conduct](CODE_OF_CONDUCT.md).
 
-| I want to... | Go to |
-|---|---|
-| See a fully worked example | [6.3 Water quality](goals/06-clean-water-and-sanitation/6.3-water-quality/problem.md) |
-| Browse and filter all 169 targets | [The catalogue](https://harrythentrepreneur.github.io/open-problems/) |
-| Find something small to do | [Good first issues](https://github.com/harrythentrepreneur/open-problems/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) |
-| Understand the rules | [CONTRIBUTING.md](CONTRIBUTING.md) · [How we work](how-we-work/) |
-| Suggest a new problem | [Open a suggestion](https://github.com/harrythentrepreneur/open-problems/issues/new?template=01-suggest-a-problem.yml) |
-| Ask a question | [Discussions](https://github.com/harrythentrepreneur/open-problems/discussions) |
+## Licence
 
-## How to help in 3 steps
-
-1. **Pick a problem.** Browse the goal table above and open a target's
-   `problem.md`. Anything marked *Help wanted* is open.
-2. **Pick a task.** Open the target's task list, find an issue you like and
-   comment `/assign` (or just say you would like to take it).
-3. **Ship it.** Open a pull request, signed off with `git commit -s`.
-   See [CONTRIBUTING.md](CONTRIBUTING.md) for the details.
-
-No code needed for most tasks: research, data hunting, writing and design
-count just as much.
-
-## Repository map
-
-| Folder | What is in it |
-|---|---|
-| [`goals/`](goals/) | 17 goal folders, 169 target folders |
-| [`how-we-work/`](how-we-work/) | Roles, code of conduct, AI use, licensing, privacy and safety, problem lifecycle, decisions |
-| [`templates/`](templates/) | Templates for new problems and solutions |
-| [`shared/`](shared/) | Code and data reused across goals |
-| [`tools/`](tools/) | Scripts that import UN data, check files, rebuild these tables and the catalogue |
-| [`site/`](site/) | The [catalogue website](https://harrythentrepreneur.github.io/open-problems/) (plain HTML, CSS, JS) |
-| [`data/`](data/) | Snapshots of the UN data we use, with dates |
-
-## Disclaimer
-
-Independent community project, not affiliated with or endorsed by the
-United Nations. Goal, target and indicator text comes from the
-[UN SDG Global Database](https://unstats.un.org/sdgs/) (unstats.un.org),
-used with attribution. Progress assessments and key messages are quoted from
-*The Sustainable Development Goals Report 2026* (United Nations). We do not
-use the UN emblem or the SDG icons. Goal colours are used only as plain
-colours.
-
-Code is [Apache-2.0](LICENSE); documentation and research are
-[CC BY 4.0](LICENSE-docs.md).
+Code is [Apache-2.0](LICENSE). Documentation is [CC BY 4.0](LICENSE-docs.md).
